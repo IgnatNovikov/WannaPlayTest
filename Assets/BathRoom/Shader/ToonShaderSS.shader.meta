@@ -9,7 +9,6 @@ ShaderImporter:
   - _EmissionMap: {instanceID: 0}
   - _FlickerTex: {instanceID: 0}
   nonModifiableTextures: []
-  preprocessorOverride: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 
